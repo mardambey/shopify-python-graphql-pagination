@@ -1,4 +1,4 @@
-# Shopify GraphQL Python Starter
+# Shopify GraphQL Python 3 Starter
 
 Fetches orders from a Shopify store (via private app access token) using the GraphQL API.
 
